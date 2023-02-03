@@ -1,5 +1,5 @@
-<h1><b> Hey there </h1></b>
-Hi, I’m Rustam
-I’m interested in java-backend development
-- 🌱 I’m currently learning java
-- 📫 You can reach me on facebook (www.facebook.com/akhmedzianov/) or instagram (@rus_yanov)
+<h2><b> Hey there </h2></b>
+- I’m Rustam,self-taught java developer from Russia, currently looking for my first job as junior java developer
+- Here you can check out my pet projects
+- You're welcome to ask any questions or to give a piece of advice about any of my project
+- 
