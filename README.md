@@ -1,7 +1,7 @@
-<h2><b> Hey there </h2></b>
+<h2><b> Hey there, I'm Rustam! </h2></b>
 <p></p>
 <ul>
-<li> I’m Rustam, java developer from Russia, currently looking for my first job as junior java developer.</li>
+<li> I’m java developer from Kazan, Russia, currently looking for my first job as junior java developer.</li>
 <li> Now finishing my studying program at Hexlet programming school. </li> 
 <li> Here you can check out my pet projects. </li>
 <li> You're welcome to ask any questions or to give a piece of advice about any of my project.</li>
