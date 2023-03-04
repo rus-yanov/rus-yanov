@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Maven-9ba6a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-9ba6a5?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/hibernate-e95d35?style=for-the-badge&logo=hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-e95d35?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hibernate-e95d35?style=for-the-badge&logo=hibernate&logoColor=white"/>
   </p>
 </p>
