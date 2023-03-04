@@ -25,11 +25,9 @@
   <li> Check out my pet projects!</li>
   <li> Wanna contact me? Reach me at <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
 </ul>
-
+</br>
 <p>
   <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=rus-yanov&show_icons=true&hide_border=false&line_height=20&title_color=708090&icon_color=708090&show_owner=true"/>
-  
-  </br>
   <p>
     <img src="https://img.shields.io/badge/java-0c2233?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
