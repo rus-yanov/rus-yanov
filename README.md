@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"> </a>
+   <a href="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"> <img alt="rus-yanov github" src="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"> </a>
  </p>
  
 <ul>
@@ -26,4 +26,26 @@
   <li> Wanna contact me? Reach me at <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
 </ul>
 
-
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=rus-yanov&show_icons=true&hide_border=false&line_height=20&title_color=708090&icon_color=708090&show_owner=true"/>
+  <p>
+    <img src="https://img.shields.io/badge/java-0c2233?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-0c2233?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-0c2233?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab-0c2233?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-083d56?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5-083d56?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-083d56?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bootstrap-083d56?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Postman-0e5f76?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgres-0e5f76?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-0e5f76?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-0e5f76?style=for-the-badge&logo=docker&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Maven-9ba6a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-9ba6a5?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hibernate-e95d35?style=for-the-badge&logo=hibernate&logoColor=white"/>
+    <img src="https://img.shields.io/badge/spring-e95d35?style=for-the-badge&logo=spring&logoColor=white"/>
+  </p>
+</p>
