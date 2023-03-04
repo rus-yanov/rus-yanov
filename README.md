@@ -33,7 +33,6 @@
     <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-0c2233?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-0c2233?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/gitlab-0c2233?style=for-the-badge&logo=gitlab&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-083d56?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-083d56?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-083d56?style=for-the-badge&logo=css3&logoColor=white"/>
