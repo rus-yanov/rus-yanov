@@ -33,10 +33,10 @@
     <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-0c2233?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-0c2233?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bootstrap-083d56?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-083d56?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-083d56?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-083d56?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-083d56?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-0e5f76?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgres-0e5f76?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-0e5f76?style=for-the-badge&logo=mysql&logoColor=white"/>
