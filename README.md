@@ -27,7 +27,7 @@
 </ul>
 
 <p>
-  <img align="left" width="490" height="200" src="https://github-readme-stats.vercel.app/api?username=rus-yanov&show_icons=true&hide_border=false&line_height=20&title_color=708090&icon_color=708090&show_owner=true"/>
+  <img align="left" width="450" height="220" src="https://github-readme-stats.vercel.app/api?username=rus-yanov&show_icons=true&hide_border=false&line_height=20&title_color=708090&icon_color=708090&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/java-0c2233?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
