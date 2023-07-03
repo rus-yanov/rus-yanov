@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/css3-083d56?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-0e5f76?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgres-0e5f76?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-0e5f76?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20Kafka-0e5f76?style=for-the-badge&logo=apachekafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-0e5f76?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Maven-9ba6a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
