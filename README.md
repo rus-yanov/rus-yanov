@@ -18,7 +18,7 @@
  
 <ul>
   <li> I'm 25 years old java developer from Kazan, Russia.</li>
-  <li> Intrested in receiving offer as a trainee/junior java developer.</li>
+  <li> Interested in receiving offer as a trainee/junior java developer.</li>
   <li> Now finishing my studying program at Hexlet programming school. Here is <a href="https://ru.hexlet.io/u/rus_yanov">my profile at Hexlet</a>.</li> 
   <li> Check out my pet projects!</li>
   <li> Wanna contact me? Reach me in <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
