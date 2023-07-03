@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-0e5f76?style=for-the-badge&logo=apachekafka&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-0e5f76?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-0e5f76?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Maven-9ba6a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJIDEA-9ba6a5?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-e95d35?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/hibernate-e95d35?style=for-the-badge&logo=hibernate&logoColor=white"/>
