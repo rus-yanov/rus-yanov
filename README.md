@@ -14,9 +14,7 @@
   <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Java Developer | Russia</h3>
 </div>
 
-<p align="center">
-   <a href="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"><img alt="rus-yanov github" src="https://visitor-badge.glitch.me/badge?page_id=rus-yanov.rus-yanov"></a>
- </p>
+![](https://komarev.com/ghpvc/?username=rus-yanov)
  
 <ul>
   <li> I'm 25 years old java developer from Kazan, Russia.</li>
