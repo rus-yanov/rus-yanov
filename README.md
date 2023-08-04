@@ -17,9 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=rus-yanov)
  
 <ul>
-  <li> I'm 25 years old java developer from Kazan, Russia.</li>
-  <li> Interested in receiving offer as a junior java developer.</li>
-  <li> Finished java courses at Hexlet programming school. Here is <a href="https://ru.hexlet.io/u/rus_yanov">my profile at Hexlet</a>.</li> 
+  <li> I'm 25 years old java developer at <a href="https://www.simbirsoft.com/en/">SimbirSoft</a></li>
   <li> Check out my pet projects!</li>
   <li> Wanna contact me? Reach me in <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
 </ul>
