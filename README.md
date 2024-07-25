@@ -17,7 +17,7 @@
 ![](https://komarev.com/ghpvc/?username=rus-yanov)
  
 <ul>
-  <li> I'm 26 years old java developer at <a href="https://www.simbirsoft.com/en/">SimbirSoft</a></li>
+  <li> I'm 26 years old java developer at <a href="https://1221systems.ru/">1221systems</a></li>
   <li> Check out my pet projects!</li>
   <li> Wanna contact me? Reach me in <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
 </ul>
