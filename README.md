@@ -26,10 +26,8 @@
   <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=rus-yanov&show_icons=true&hide_border=false&line_height=20&title_color=708090&icon_color=708090&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/java-0c2233?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ubuntu-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-0c2233?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img src="https://img.shields.io/badge/git-0c2233?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-0c2233?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-083d56?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-083d56?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5-083d56?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-083d56?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -39,7 +37,6 @@
     <img src="https://img.shields.io/badge/Postman-0e5f76?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache%20Maven-9ba6a5?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
     <img src="https://img.shields.io/badge/Gradle-9ba6a5?style=for-the-badge&logo=Gradle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJIDEA-9ba6a5?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/spring-e95d35?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/hibernate-e95d35?style=for-the-badge&logo=hibernate&logoColor=white"/>
   </p>
