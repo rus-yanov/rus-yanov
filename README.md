@@ -17,7 +17,8 @@
 ![](https://komarev.com/ghpvc/?username=rus-yanov)
  
 <ul>
-  <li> I'm 27 years old java developer</li>
+  <li> I'm 28 years old java developer</li>
+  <li> Also intersted in ML and DL</li>
   <li> Check out my pet projects!</li>
   <li> Wanna contact me? Reach me in <a href="t.me/rus_yanov">telegram</a> or <a href="https://www.facebook.com/akhmedzianov/">facebook</a>. </li>
 </ul>
